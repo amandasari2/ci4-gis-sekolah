@@ -1,0 +1,15 @@
+CRITICAL - 2024-04-02 14:40:20 --> ErrorException: Undefined array key "view_zoom"
+in APPPATH\Views\v_settings.php on line 33.
+ 1 APPPATH\Views\v_settings.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "view_zoom"', 'C:\\xampp\\htdocs\\ci4-gis-sekolah\\app\\Views\\v_settings.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4-gis-sekolah\\app\\Views\\v_settings.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_settings', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(176): view('v_settings')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4-gis-sekolah\\app\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Admin.php(27): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Admin->Settings()
+11 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

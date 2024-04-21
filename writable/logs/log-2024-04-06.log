@@ -1,0 +1,756 @@
+WARNING - 2024-04-06 12:56:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 12:58:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 12:58:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 12:58:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 12:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 12:58:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 12:58:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 12:58:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 12:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:07:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:07:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:07:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:10:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:10:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:10:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:14:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:14:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:14:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:19:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:19:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:19:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:20:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:20:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:20:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:20:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:20:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:20:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:21:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:21:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:21:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:21:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:21:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:22:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:22:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:22:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:28:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:28:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:28:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:28:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:28:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:28:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:34:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:34:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:34:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:38:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:38:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:38:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:38:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 13:46:13 --> ParseError: syntax error, unexpected token "=", expecting "]"
+in APPPATH\Controllers\Sekolah.php on line 34.
+ 1 SYSTEMPATH\Router\Router.php(530): CodeIgniter\Router\AutoRouter->getRoute('Sekolah/Input', 'get')
+ 2 SYSTEMPATH\Router\Router.php(226): CodeIgniter\Router\Router->autoRoute('Sekolah/Input')
+ 3 SYSTEMPATH\CodeIgniter.php(825): CodeIgniter\Router\Router->handle('Sekolah/Input')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:46:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:46:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:46:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:51:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:51:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:51:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:54:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:54:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:54:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 13:56:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:56:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 13:56:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 13:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:16:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:16:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:16:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:18:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:18:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:18:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:18:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:18:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:18:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:22:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:22:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:22:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:23:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:23:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:23:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:23:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:23:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:23:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:23:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:29:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:29:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:29:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:29:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:29:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:29:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:29:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:37:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:37:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:37:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:37:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:37:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:37:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:38:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:38:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:38:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:38:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:38:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:38:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:39:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:39:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:39:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:46:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:46:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:46:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:48:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:48:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:48:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:48:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:48:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:48:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:50:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:50:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated in APPPATH\Controllers\Wilayah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:50:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Wilayah::$ModelSetting is deprecated in APPPATH\Controllers\Wilayah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:50:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jenjang::$ModelJenjang is deprecated in APPPATH\Controllers\Jenjang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Jenjang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:50:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:50:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:50:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:50:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:50:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:51:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated in APPPATH\Controllers\Sekolah.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:51:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSetting is deprecated in APPPATH\Controllers\Sekolah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:51:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sekolah::$ModelSekolah is deprecated in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:51:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jenjang::$ModelJenjang is deprecated in APPPATH\Controllers\Jenjang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Jenjang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:51:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated in APPPATH\Controllers\Wilayah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:51:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Wilayah::$ModelSetting is deprecated in APPPATH\Controllers\Wilayah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:51:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:51:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:54:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:54:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jenjang::$ModelJenjang is deprecated in APPPATH\Controllers\Jenjang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Jenjang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:54:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated in APPPATH\Controllers\Wilayah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:54:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Wilayah::$ModelSetting is deprecated in APPPATH\Controllers\Wilayah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-06 14:59:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated in APPPATH\Controllers\Wilayah.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-04-06 14:59:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Wilayah::$ModelSetting is deprecated in APPPATH\Controllers\Wilayah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-06 14:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
