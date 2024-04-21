@@ -105,7 +105,7 @@
             }).bindPopup('<img src="<?= base_url('foto/' . $value['foto']) ?>" width="100%">' +
                 '<b><?= $value['nama_sekolah'] ?></b>' + '<br>' + 'Akreditasi : ' + '<?= $value['akreditasi'] ?>' +
                 '<br>' + 'Jenjang : ' + '<?= $value['jenjang'] ?>' + '<br>' + 'Status : ' + '<?= $value['status'] ?>' +
-                '<br><br>' + '<a class="btn btn-primary btn-xs text-white" href="<?= base_url('sekolah/detail/' . $value['id_sekolah']) ?>">Detail</a>'
+                '<br><br>' + '<a class="btn btn-primary btn-xs text-white" href="<?= base_url('Home/DetailSekolah/' . $value['id_sekolah']) ?>">Detail</a>'
             )
             .addTo(map);
     <?php } ?>

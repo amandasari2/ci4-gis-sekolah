@@ -21,7 +21,7 @@
     <!-- /.login-logo -->
     <div class="card card-outline card-primary">
       <div class="card-header text-center">
-        <a href="<?= base_url('/') ?>" class="h1"><b>GIS</b> Sekolah</a>
+        <a href="<?= base_url('Home') ?>" class="h1"><b>GIS</b> Sekolah</a>
       </div>
       <div class="card-body">
         <p class="login-box-msg">Silahkan Login</p>

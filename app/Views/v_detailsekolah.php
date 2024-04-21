@@ -24,7 +24,7 @@
         </tr>
         <tr>
             <th>Alamat Sekolah</th>
-            <td><?= $sekolah['alamat'] ?>, <?= $sekolah['nama_kecamatan'] ?>, <?= $sekolah['nama_kabupaten'] ?>, <?= $sekolah['nama_provinsi'] ?></td>
+            <td><?= $sekolah['alamat'] ?>, Kec. <?= $sekolah['nama_kecamatan'] ?>, <?= $sekolah['nama_kabupaten'] ?>, <?= $sekolah['nama_provinsi'] ?></td>
         </tr>
     </table>
 </div>
