@@ -6,26 +6,42 @@
 </div>
 <div class="col-sm-12">
     <table class="table table-bordered">
-        <tr>
-            <th>Nama Sekolah</th>
-            <td><?= $sekolah['nama_sekolah'] ?></td>
-        </tr>
-        <tr>
-            <th>Jenjang Sekolah</th>
-            <td><?= $sekolah['jenjang'] ?></td>
-        </tr>
-        <tr>
-            <th>Akreditasi Sekolah</th>
-            <td><?= $sekolah['akreditasi'] ?></td>
-        </tr>
-        <tr>
-            <th>Status Sekolah</th>
-            <td><?= $sekolah['status'] ?></td>
-        </tr>
-        <tr>
-            <th>Alamat Sekolah</th>
-            <td><?= $sekolah['alamat'] ?>, Kec. <?= $sekolah['nama_kecamatan'] ?>, <?= $sekolah['nama_kabupaten'] ?>, <?= $sekolah['nama_provinsi'] ?></td>
-        </tr>
+    <tr>
+                            <th>Nama Sekolah</th>
+                            <td><?= $sekolah['nama_sekolah'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>Jenjang Sekolah</th>
+                            <td><?= $sekolah['jenjang'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>Kepala Sekolah</th>
+                            <td><?= $sekolah['kepsek'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>Akreditasi Sekolah</th>
+                            <td><?= $sekolah['akreditasi'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>Kurikulum</th>
+                            <td><?= $sekolah['kurikulum'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>NPSN</th>
+                            <td><?= $sekolah['npsn'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>Status Sekolah</th>
+                            <td><?= $sekolah['status'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>Status Kepemilikan</th>
+                            <td><?= $sekolah['stts_pemilik'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>Alamat Sekolah</th>
+                            <td><?= $sekolah['alamat'] ?></td>
+                        </tr>
     </table>
 </div>
 <script>

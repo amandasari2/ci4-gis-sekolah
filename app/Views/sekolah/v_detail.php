@@ -23,16 +23,32 @@
                             <td><?= $sekolah['jenjang'] ?></td>
                         </tr>
                         <tr>
+                            <th>Kepala Sekolah</th>
+                            <td><?= $sekolah['kepsek'] ?></td>
+                        </tr>
+                        <tr>
                             <th>Akreditasi Sekolah</th>
                             <td><?= $sekolah['akreditasi'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>Kurikulum</th>
+                            <td><?= $sekolah['kurikulum'] ?></td>
+                        </tr>
+                        <tr>
+                            <th>NPSN</th>
+                            <td><?= $sekolah['npsn'] ?></td>
                         </tr>
                         <tr>
                             <th>Status Sekolah</th>
                             <td><?= $sekolah['status'] ?></td>
                         </tr>
                         <tr>
+                            <th>Status Kepemilikan</th>
+                            <td><?= $sekolah['stts_pemilik'] ?></td>
+                        </tr>
+                        <tr>
                             <th>Alamat Sekolah</th>
-                            <td><?= $sekolah['alamat'] ?>, Kec. <?= $sekolah['nama_kecamatan'] ?>, <?= $sekolah['nama_kabupaten'] ?>, <?= $sekolah['nama_provinsi'] ?></td>
+                            <td><?= $sekolah['alamat'] ?></td>
                         </tr>
                     </table>
                     <a href="<?= base_url('Sekolah') ?>" class="btn btn-success btn-flat">Kembali</a>
@@ -126,12 +142,6 @@
     // const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     //     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     // }).addTo(map);
-
-    L.geoJSON(<?= $sekolah['geojson'] ?>, {
-            fillColor: '<?= $sekolah['warna'] ?>',
-            fillOpacity: 1,
-        }).bindPopup('<b><?= $sekolah['nama_wilayah'] ?></b>')
-        .addTo(map);
 
     var icon = L.icon({
         iconUrl: '<?= base_url('marker/' . $sekolah['marker']) ?>',

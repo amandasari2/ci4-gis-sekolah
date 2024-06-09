@@ -55,30 +55,23 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="form-group">
-                        <label for="id_provinsi">Provinsi</label>
-                        <select name="id_provinsi" id="id_provinsi" class="form-control select2">
-                            <option value="">-- Pilih Provinsi --</option>
-                            <?php foreach ($provinsi as $key => $value) { ?>
-                                <option value="<?= $value['id_provinsi'] ?>"><?= $value['nama_provinsi'] ?></option>
-                            <?php } ?>
-                        </select>
-                        <p class="text-danger"><?= isset($errors['id_provinsi']) == isset($errors['id_provinsi']) ? validation_show_error('id_provinsi') : '' ?></p>
+                        <label for="kepsek">Kepala Sekolah</label>
+                        <input type="text" value="<?= old('kepsek') ?>" class="form-control" name="kepsek" placeholder="Masukkan Nama Kepala Sekolah">
+                        <p class="text-danger"><?= isset($errors['kepsek']) == isset($errors['kepsek']) ? validation_show_error('kepsek') : '' ?></p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="form-group">
-                        <label for="id_kabupaten">Kabupaten</label>
-                        <select name="id_kabupaten" id="id_kabupaten" class="form-control">
-                        </select>
-                        <p class="text-danger"><?= isset($errors['id_kabupaten']) == isset($errors['id_kabupaten']) ? validation_show_error('id_kabupaten') : '' ?></p>
+                        <label for="kurikulum">Kurikulum</label>
+                        <input type="text" value="<?= old('kurikulum') ?>" class="form-control" name="kurikulum" placeholder="Masukkan Kurikulum Sekolah">
+                        <p class="text-danger"><?= isset($errors['kurikulum']) == isset($errors['kurikulum']) ? validation_show_error('kurikulum') : '' ?></p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="form-group">
-                        <label for="id_kecamatan">Kecamatan</label>
-                        <select name="id_kecamatan" id="id_kecamatan" class="form-control">
-                        </select>
-                        <p class="text-danger"><?= isset($errors['id_kecamatan']) == isset($errors['id_kecamatan']) ? validation_show_error('id_kecamatan') : '' ?></p>
+                        <label for="stts_pemilik">Status Kepemilikan</label>
+                        <input type="text" value="<?= old('stts_pemilik') ?>" class="form-control" name="stts_pemilik" placeholder="Masukkan Status Kepemilikan">
+                        <p class="text-danger"><?= isset($errors['stts_pemilik']) == isset($errors['stts_pemilik']) ? validation_show_error('stts_pemilik') : '' ?></p>
                     </div>
                 </div>
             </div>
@@ -92,14 +85,9 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="form-group">
-                        <label for="id_wilayah">Wilayah Administrasi</label>
-                        <select name="id_wilayah" id="" class="form-control">
-                            <option value="">-- Pilih Wilayah Administrasi --</option>
-                            <?php foreach ($wilayah as $key => $value) { ?>
-                                <option value="<?= $value['id_wilayah'] ?>"><?= $value['nama_wilayah'] ?></option>
-                            <?php } ?>
-                        </select>
-                        <p class="text-danger"><?= isset($errors['id_wilayah']) == isset($errors['id_wilayah']) ? validation_show_error('id_wilayah') : '' ?></p>
+                        <label for="npsn">NPSN</label>
+                        <input type="text" value="<?= old('npsn') ?>" class="form-control" name="npsn" placeholder="Masukkan npsn">
+                        <p class="text-danger"><?= isset($errors['npsn']) == isset($errors['npsn']) ? validation_show_error('npsn') : '' ?></p>
                     </div>
                 </div>
             </div>
@@ -116,42 +104,6 @@
         </div>
     </div>
 </div>
-
-<script>
-    $(document).ready(function() {
-        //Initialize Select2 Elements
-        $('.select2').select2();
-
-        $('#id_provinsi').change(function() {
-
-            var id_provinsi = $('#id_provinsi').val();
-            $.ajax({
-                type: "POST",
-                url: "<?= base_url('Sekolah/Kabupaten') ?>",
-                data: {
-                    'id_provinsi': id_provinsi,
-                },
-                success: function(response) {
-                    $('#id_kabupaten').html(response);
-                }
-            })
-        })
-        $('#id_kabupaten').change(function() {
-
-            var id_kabupaten = $('#id_kabupaten').val();
-            $.ajax({
-                type: "POST",
-                url: "<?= base_url('Sekolah/Kecamatan') ?>",
-                data: {
-                    'id_kabupaten': id_kabupaten,
-                },
-                success: function(response) {
-                    $('#id_kecamatan').html(response);
-                }
-            })
-        })
-    })
-</script>
 
 <script>
     var peta1 = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFyZGFsaXVzIiwiYSI6ImNsZnVtbDdtZzAyYjMzdXRhdDN6djY5cWoifQ.Xqtyqa7hvGhQla2oAwpG_Q', {

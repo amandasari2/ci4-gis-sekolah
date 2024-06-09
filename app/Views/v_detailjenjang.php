@@ -84,14 +84,6 @@
     //     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     // }).addTo(map);
 
-    <?php foreach ($wilayah as $key => $value) { ?>
-        L.geoJSON(<?= $value['geojson'] ?>, {
-                fillColor: '<?= $value['warna'] ?>',
-                fillOpacity: 0.5,
-            }).bindPopup('<b><?= $value['nama_wilayah'] ?></b>')
-            .addTo(map);
-    <?php } ?>
-
     <?php foreach ($sekolah as $key => $value) { ?>
         var Icon = L.icon({
             iconUrl: '<?= base_url('marker/' . $value['marker']) ?>',

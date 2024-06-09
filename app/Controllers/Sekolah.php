@@ -3,7 +3,7 @@
 namespace App\Controllers;
 
 use App\Controllers\BaseController;
-use App\Models\ModelWilayah;
+// use App\Models\ModelWilayah;
 use App\Models\ModelSetting;
 use App\Models\ModelSekolah;
 use App\Models\ModelJenjang;
@@ -12,7 +12,7 @@ class Sekolah extends BaseController
 {
     public function __construct()
     {
-        $this->ModelWilayah = new ModelWilayah();
+        // $this->ModelWilayah = new ModelWilayah();
         $this->ModelSetting = new ModelSetting();
         $this->ModelSekolah = new ModelSekolah();
         $this->ModelJenjang = new ModelJenjang();
@@ -35,8 +35,8 @@ class Sekolah extends BaseController
             'menu' => 'sekolah',
             'page' => 'sekolah/v_input',
             'web' => $this->ModelSetting->Dataweb(),
-            'provinsi' => $this->ModelSekolah->allProvinsi(),
-            'wilayah' => $this->ModelWilayah->AllData(),
+            // 'provinsi' => $this->ModelSekolah->allProvinsi(),
+            // 'wilayah' => $this->ModelWilayah->AllData(),
             'jenjang' => $this->ModelJenjang->AllData(),
         ];
         return view('v_template_back_end', $data);
@@ -80,22 +80,29 @@ class Sekolah extends BaseController
                     'required' => '{field} Wajib Diisi!'
                 ]
             ],
-            'id_provinsi' => [
-                'label' => 'Provinsi',
+            'kepsek' => [
+                'label' => 'Kepala Sekolah',
                 'rules' => 'required',
                 'errors' => [
                     'required' => '{field} Wajib Diisi!'
                 ]
             ],
-            'id_kabupaten' => [
-                'label' => 'Kabupaten',
+            'kurikulum' => [
+                'label' => 'Kurikulum',
                 'rules' => 'required',
                 'errors' => [
                     'required' => '{field} Wajib Diisi!'
                 ]
             ],
-            'id_kecamatan' => [
-                'label' => 'Kecamatan',
+            'npsn' => [
+                'label' => 'NPSN',
+                'rules' => 'required',
+                'errors' => [
+                    'required' => '{field} Wajib Diisi!'
+                ]
+            ],
+            'stts_pemilik' => [
+                'label' => 'Status Kepemilikan',
                 'rules' => 'required',
                 'errors' => [
                     'required' => '{field} Wajib Diisi!'
@@ -108,13 +115,13 @@ class Sekolah extends BaseController
                     'required' => '{field} Wajib Diisi!'
                 ]
             ],
-            'id_wilayah' => [
-                'label' => 'Wilayah Administrasi',
-                'rules' => 'required',
-                'errors' => [
-                    'required' => '{field} Wajib Diisi!'
-                ]
-            ],
+            // 'id_wilayah' => [
+            //     'label' => 'Wilayah Administrasi',
+            //     'rules' => 'required',
+            //     'errors' => [
+            //         'required' => '{field} Wajib Diisi!'
+            //     ]
+            // ],
             'foto' => [
                 'label' => 'Foto Sekolah',
                 'rules' => 'uploaded[foto]|max_size[foto,1024]|mime_in[foto,image/jpg,image/jpeg,image/png]',
@@ -135,11 +142,12 @@ class Sekolah extends BaseController
                 'status' => $this->request->getPost('status'),
                 'coordinat' => $this->request->getPost('coordinat'),
                 'id_jenjang' => $this->request->getPost('id_jenjang'),
-                'id_provinsi' => $this->request->getPost('id_provinsi'),
-                'id_kabupaten' => $this->request->getPost('id_kabupaten'),
-                'id_kecamatan' => $this->request->getPost('id_kecamatan'),
+                'kepsek' => $this->request->getPost('kepsek'),
+                'kurikulum' => $this->request->getPost('kurikulum'),
+                'npsn' => $this->request->getPost('npsn'),
+                'stts_pemilik' => $this->request->getPost('stts_pemilik'),
                 'alamat' => $this->request->getPost('alamat'),
-                'id_wilayah' => $this->request->getPost('id_wilayah'),
+                // 'id_wilayah' => $this->request->getPost('id_wilayah'),
                 'foto' => $nama_file_foto,
             ];
             $foto_sekolah->move('foto', $nama_file_foto);
@@ -162,8 +170,8 @@ class Sekolah extends BaseController
             'page' => 'sekolah/v_editsekolah',
             'sekolah' => $this->ModelSekolah->DetailData($id_sekolah),
             'web' => $this->ModelSetting->Dataweb(),
-            'provinsi' => $this->ModelSekolah->allProvinsi(),
-            'wilayah' => $this->ModelWilayah->AllData(),
+            // 'provinsi' => $this->ModelSekolah->allProvinsi(),
+            // 'wilayah' => $this->ModelWilayah->AllData(),
             'jenjang' => $this->ModelJenjang->AllData(),
         ];
         return view('v_template_back_end', $data);
@@ -207,22 +215,29 @@ class Sekolah extends BaseController
                     'required' => '{field} Wajib Diisi!'
                 ]
             ],
-            'id_provinsi' => [
-                'label' => 'Provinsi',
+            'kepsek' => [
+                'label' => 'Kepala Sekolah',
                 'rules' => 'required',
                 'errors' => [
                     'required' => '{field} Wajib Diisi!'
                 ]
             ],
-            'id_kabupaten' => [
-                'label' => 'Kabupaten',
+            'kurikulum' => [
+                'label' => 'Kurikulum',
                 'rules' => 'required',
                 'errors' => [
                     'required' => '{field} Wajib Diisi!'
                 ]
             ],
-            'id_kecamatan' => [
-                'label' => 'Kecamatan',
+            'npsn' => [
+                'label' => 'NPSN',
+                'rules' => 'required',
+                'errors' => [
+                    'required' => '{field} Wajib Diisi!'
+                ]
+            ],
+            'stts_pemilik' => [
+                'label' => 'Status Kepemilikan',
                 'rules' => 'required',
                 'errors' => [
                     'required' => '{field} Wajib Diisi!'
@@ -235,13 +250,13 @@ class Sekolah extends BaseController
                     'required' => '{field} Wajib Diisi!'
                 ]
             ],
-            'id_wilayah' => [
-                'label' => 'Wilayah Administrasi',
-                'rules' => 'required',
-                'errors' => [
-                    'required' => '{field} Wajib Diisi!'
-                ]
-            ],
+            // 'id_wilayah' => [
+            //     'label' => 'Wilayah Administrasi',
+            //     'rules' => 'required',
+            //     'errors' => [
+            //         'required' => '{field} Wajib Diisi!'
+            //     ]
+            // ],
             'foto' => [
                 'label' => 'Foto Sekolah',
                 'rules' => 'max_size[foto,1024]|mime_in[foto,image/jpg,image/jpeg,image/png]',
@@ -262,11 +277,12 @@ class Sekolah extends BaseController
                     'status' => $this->request->getPost('status'),
                     'coordinat' => $this->request->getPost('coordinat'),
                     'id_jenjang' => $this->request->getPost('id_jenjang'),
-                    'id_provinsi' => $this->request->getPost('id_provinsi'),
-                    'id_kabupaten' => $this->request->getPost('id_kabupaten'),
-                    'id_kecamatan' => $this->request->getPost('id_kecamatan'),
+                    'kepsek' => $this->request->getPost('kepsek'),
+                    'kurikulum' => $this->request->getPost('kurikulum'),
+                    'npsn' => $this->request->getPost('npsn'),
+                    'stts_pemilik' => $this->request->getPost('stts_pemilik'),
                     'alamat' => $this->request->getPost('alamat'),
-                    'id_wilayah' => $this->request->getPost('id_wilayah'),
+                    // 'id_wilayah' => $this->request->getPost('id_wilayah'),
                 ];
                 $this->ModelSekolah->UpdateData($data);
             } else {
@@ -284,11 +300,12 @@ class Sekolah extends BaseController
                     'status' => $this->request->getPost('status'),
                     'coordinat' => $this->request->getPost('coordinat'),
                     'id_jenjang' => $this->request->getPost('id_jenjang'),
-                    'id_provinsi' => $this->request->getPost('id_provinsi'),
-                    'id_kabupaten' => $this->request->getPost('id_kabupaten'),
-                    'id_kecamatan' => $this->request->getPost('id_kecamatan'),
+                    'kepsek' => $this->request->getPost('kepsek'),
+                    'kurikulum' => $this->request->getPost('kurikulum'),
+                    'npsn' => $this->request->getPost('npsn'),
+                    'stts_pemilik' => $this->request->getPost('stts_pemilik'),
                     'alamat' => $this->request->getPost('alamat'),
-                    'id_wilayah' => $this->request->getPost('id_wilayah'),
+                    // 'id_wilayah' => $this->request->getPost('id_wilayah'),
                     'foto' => $nama_file_foto,
                 ];
                 $this->ModelSekolah->UpdateData($data);
@@ -333,23 +350,23 @@ class Sekolah extends BaseController
     }
 
     // Kabupaten, Kecamatan
-    public function Kabupaten()
-    {
-        $id_provinsi = $this->request->getPost('id_provinsi');
-        $kab = $this->ModelSekolah->allKabupaten($id_provinsi);
-        echo '<option value="">-- Pilih Kabupaten --</option>';
-        foreach ($kab as $key => $value) {
-            echo '<option value=' . $value['id_kabupaten'] . '>' . $value['nama_kabupaten'] . '</option>';
-        }
-    }
+    // public function Kabupaten()
+    // {
+    //     $id_provinsi = $this->request->getPost('id_provinsi');
+    //     $kab = $this->ModelSekolah->allKabupaten($id_provinsi);
+    //     echo '<option value="">-- Pilih Kabupaten --</option>';
+    //     foreach ($kab as $key => $value) {
+    //         echo '<option value=' . $value['id_kabupaten'] . '>' . $value['nama_kabupaten'] . '</option>';
+    //     }
+    // }
 
-    public function Kecamatan()
-    {
-        $id_kabupaten = $this->request->getPost('id_kabupaten');
-        $kac = $this->ModelSekolah->allKecamatan($id_kabupaten);
-        echo '<option value="">-- Pilih Kecamatan --</option>';
-        foreach ($kac as $key => $value) {
-            echo '<option value=' . $value['id_kecamatan'] . '>' . $value['nama_kecamatan'] . '</option>';
-        }
-    }
+    // public function Kecamatan()
+    // {
+    //     $id_kabupaten = $this->request->getPost('id_kabupaten');
+    //     $kac = $this->ModelSekolah->allKecamatan($id_kabupaten);
+    //     echo '<option value="">-- Pilih Kecamatan --</option>';
+    //     foreach ($kac as $key => $value) {
+    //         echo '<option value=' . $value['id_kecamatan'] . '>' . $value['nama_kecamatan'] . '</option>';
+    //     }
+    // }
 }
