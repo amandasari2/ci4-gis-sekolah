@@ -85,18 +85,23 @@
     // }).addTo(map);
 
     <?php foreach ($sekolah as $key => $value) { ?>
-        var Icon = L.icon({
-            iconUrl: '<?= base_url('marker/' . $value['marker']) ?>',
-            iconSize: [35, 45],
+    var Icon = L.icon({
+        iconUrl: '<?= base_url('marker/' . $value['marker']) ?>',
+        iconSize: [35, 45],
+    });
 
-        });
-        L.marker([<?= $value['coordinat'] ?>], {
-                icon: Icon
-            }).bindPopup('<img src="<?= base_url('foto/' . $value['foto']) ?>" width="100%">' +
-                '<b><?= $value['nama_sekolah'] ?></b>' + '<br>' + 'Akreditasi : ' + '<?= $value['akreditasi'] ?>' +
-                '<br>' + 'Jenjang : ' + '<?= $value['jenjang'] ?>' + '<br>' + 'Status : ' + '<?= $value['status'] ?>' +
-                '<br><br>' + '<a class="btn btn-primary btn-xs text-white" href="<?= base_url('Home/DetailSekolah/' . $value['id_sekolah']) ?>">Detail</a>'
-            )
-            .addTo(map);
-    <?php } ?>
+    // Tambahkan marker dengan popup ke peta
+    L.marker([<?= $value['coordinat'] ?>], { icon: Icon })
+        .bindPopup(`
+            <img src="<?= base_url('foto/' . $value['foto']) ?>" width="100%">
+            <b><?= $value['nama_sekolah'] ?></b><br>
+            Akreditasi: <?= $value['akreditasi'] ?><br>
+            Jenjang: <?= $value['jenjang'] ?><br>
+            Status: <?= $value['status'] ?><br><br>
+            <a class="btn btn-primary btn-xs text-white" href="<?= base_url('Home/DetailSekolah/' . $value['id_sekolah']) ?>">Detail</a><br><br>
+            <a class="btn btn-success btn-xs text-white" target="_blank" href="https://www.google.com/maps/dir/?api=1&destination=<?= $value['coordinat'] ?>">Rute ke Sini</a>
+        `)
+        .addTo(map);
+<?php } ?>
+
 </script>
